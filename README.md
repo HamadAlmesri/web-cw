@@ -1,4 +1,4 @@
-dir='rtl'
+<div dir=rtl>
 # الجزء الأول 
 1) استخدم ملف index.html
 2) اربط صفحة ال html بال css
@@ -9,3 +9,4 @@ dir='rtl'
 1) استخدم ملف style.css 
 2) 
 3) 
+</div>
