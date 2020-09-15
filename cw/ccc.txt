@@ -1,0 +1,7 @@
+CSS Classwork in need:
+-google font 
+-border 
+-border-radius 
+-shadow 
+-hover 
+-background-image
