@@ -20,7 +20,7 @@
 6) قم ب انشاء حواف للصورة ب استخدام box shadow
 
 
-<h5 style="color = red ; "> بووونصص </h5>
+<h3 style="color = red ; "> بووونصص </h3>
 1) قم بجعل القائمة الغير مرتبة بدون نقاط او bullet points
   
   
