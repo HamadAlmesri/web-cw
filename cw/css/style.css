@@ -3,16 +3,15 @@ body {
     /* background-color: #f2f2f2; */
     /* background-size: cover;
     background-image: url(https://cdn.discordapp.com/attachments/744343866492059678/755178046151065632/4107754.png); */
+    
     font-family: 'Cairo', sans-serif;
-    
     text-align: center;
-    
 }
 .card {
     width: 400px;
     height: 500px;
-    border-radius: 12px;
     box-shadow: 10px 10px 28px 3px rgba(227,224,227,1);
+    border-radius: 12px;
     background-color: white;
 }
 .center {
